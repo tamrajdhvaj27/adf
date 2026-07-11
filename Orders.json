@@ -14,7 +14,7 @@
     "customer_name": "Raman",
     "order_date": "2026-01-01T13:00:00Z",
     "updated_date": "2026-01-01T13:00:00Z",
-    "amount": 2500.00,
+    "amount": 250.00,
     "source_system": "orders_app"
   },
   {
@@ -30,8 +30,8 @@
     "order_id": 4,
     "customer_id": "1004",
     "customer_name": "Arjun",
-    "order_date": "2026-01-01T15:00:00Z",
-    "updated_date": "2026-01-01T15:00:00Z",
+    "order_date": "2026-01-04T15:00:00Z",
+    "updated_date": "2026-01-04T15:00:00Z",
     "amount": 175.25,
     "source_system": "orders_app"
   }
