@@ -41,7 +41,16 @@
     "customer_name": "Meera",
     "order_date": "2026-01-01T16:00:00Z",
     "updated_date": "2026-01-01T16:00:00Z",
-    "amount": 320.00,
+    "amount": 500.00,
+    "source_system": "orders_app"
+  },
+  {
+    "order_id": 6,
+    "customer_id": "1006",
+    "customer_name": "Vikram",
+    "order_date": "2026-01-01T17:00:00Z",
+    "updated_date": "2026-01-01T17:00:00Z",
+    "amount": 210.75,
     "source_system": "orders_app"
   }
 ]
