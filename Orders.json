@@ -11,10 +11,10 @@
   {
     "order_id": 2,
     "customer_id": "1002",
-    "customer_name": "Ramana1",
+    "customer_name": "Ram",
     "order_date": "2026-01-01T13:00:00Z",
     "updated_date": "2026-01-01T13:00:00Z",
-    "amount": 2500.00,
+    "amount": 250.00,
     "source_system": "orders_app"
   },
   {
@@ -47,6 +47,15 @@
   {
     "order_id": 6,
     "customer_id": "1006",
+    "customer_name": "Sita",
+    "order_date": "2026-01-01T18:00:00Z",
+    "updated_date": "2026-01-01T18:00:00Z",
+    "amount": 450.00,
+    "source_system": "orders_app"
+  },
+  {
+    "order_id": 7,
+    "customer_id": "1007",
     "customer_name": "Sita",
     "order_date": "2026-01-01T18:00:00Z",
     "updated_date": "2026-01-01T18:00:00Z",
